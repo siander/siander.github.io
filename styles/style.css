@@ -1,0 +1,36 @@
+
+
+html {
+    font-size: 15px;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #C3C4E8;
+}
+
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #DEDEE7;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    margin: 10px;
+    padding: 20px 0;
+    color: #7FBF3F;
+    text-shadow: 3px 3px 5px #334C19;
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+p, li {
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
